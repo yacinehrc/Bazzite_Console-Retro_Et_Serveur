@@ -1,5 +1,7 @@
 # EliteDesk Bazzite : console rétro, streaming et serveur maison
 
+[![Bibliothèque Steam Big Picture avec les jeux RetroDECK](Images/01-bibliotheque-steam.png)](Images/01-bibliotheque-steam.png)
+
 Journal d'installation de mon **HP EliteDesk 800 G3 Mini** sous **Bazzite** (Fedora Atomic), transformé en :
 
 - 🎮 **console** : Steam Big Picture au démarrage, RetroDECK pour l'émulation (DS, PSP, PS2…) ;
@@ -32,9 +34,7 @@ Journal d'installation de mon **HP EliteDesk 800 G3 Mini** sous **Bazzite** (Fed
 15. [RetroDECK et les jeux](#15-retrodeck-et-les-jeux)
 16. [Steam et la bibliothèque façon console](#16-steam-et-la-bibliothèque-façon-console)
 17. [Récapitulatif services et ports](#17-récapitulatif-services-et-ports)
-18. [Problèmes rencontrés et solutions](#18-problèmes-rencontrés-et-solutions)
-19. [Maintenance](#19-maintenance)
-20. [À faire](#20-à-faire)
+18. [Maintenance](#18-maintenance)
 
 ---
 
@@ -543,7 +543,7 @@ mv -n ~/Documents/retrodeck/roms/ps2/SLUS-20946*.iso \
 
 ---
 
-## 19. Maintenance
+## 18. Maintenance
 
 ```bash
 ujust update                                  # système + Flatpak + Brew
