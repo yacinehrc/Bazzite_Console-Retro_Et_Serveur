@@ -557,4 +557,4 @@ for d in sdb sdc sdd; do sudo smartctl -n standby -d sat -A /dev/$d | grep Tempe
 
 ---
 
-*Réalisé par [Yacine Harrache](https://github.com/yacinehrc) — BTS SIO SLAM | EPSI Lille*
+*Réalisé par [Yacine Harrache](https://github.com/yacinehrc) — Étudiant en 2ème année de BTS SIO SLAM | EPSI Lille*
